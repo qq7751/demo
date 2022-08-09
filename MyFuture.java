@@ -1,3 +1,6 @@
+/* 这是一段注释
+ * */
+
 package com.nuist.thread.JUC_class;
 
 import java.util.concurrent.*;
