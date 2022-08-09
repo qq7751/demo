@@ -1,4 +1,4 @@
-/* 这是一段注释
+/* 这是一段注释，异步计算
  * */
 
 package com.nuist.thread.JUC_class;
